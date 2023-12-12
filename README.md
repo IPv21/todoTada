@@ -1,6 +1,4 @@
-# todoTada
-
-This weeks challenge had uslinking pages, and saving and recalling info from json files. 
+ Todo Tada! is a simple to-do list app that allows users to create, edit, and delete tasks. It uses a MySQL database to store the tasks and is deployed on Heroku.
 
 https://immense-lake-10385-616c7fef344f.herokuapp.com/
 
